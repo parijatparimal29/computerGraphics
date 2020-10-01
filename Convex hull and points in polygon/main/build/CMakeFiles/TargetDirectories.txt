@@ -1,0 +1,8 @@
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/CMakeFiles/rebuild_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/CMakeFiles/edit_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/hull/CMakeFiles/rebuild_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/hull/CMakeFiles/edit_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/hull/CMakeFiles/convex_hull.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/inside/CMakeFiles/rebuild_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/inside/CMakeFiles/edit_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/build/src/inside/CMakeFiles/point_in_polygon.dir

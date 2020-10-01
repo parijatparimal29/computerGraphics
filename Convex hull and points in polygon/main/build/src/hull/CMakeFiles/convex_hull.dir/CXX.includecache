@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_1/Assignment_1/src/hull/main.cpp
+algorithm
+-
+complex
+-
+fstream
+-
+iostream
+-
+numeric
+-
+vector
+-
+
