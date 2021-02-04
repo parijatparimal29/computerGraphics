@@ -1,0 +1,3 @@
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_4/Assignment_4/release/CMakeFiles/rebuild_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_4/Assignment_4/release/CMakeFiles/edit_cache.dir
+/Users/parijatparimal/downloads/Computer Graphics/Assignment_4/Assignment_4/release/CMakeFiles/assignment4.dir
