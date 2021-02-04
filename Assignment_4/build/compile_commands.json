@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/build",
+  "command": "/usr/bin/clang++ -DDATA_DIR=\"\\\"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/data/\\\"\" -isystem \"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/../ext/eigen\" -isystem \"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/../ext/stb\" -isystem \"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/../ext/gif-h\" -isystem \"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/../ext/json\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -std=gnu++11 -o CMakeFiles/assignment4.dir/src/main.cpp.o -c \"/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/src/main.cpp\"",
+  "file": "/Users/parijatparimal/Downloads/Computer Graphics/Assignment_4/Assignment_4/src/main.cpp"
+}
+]
